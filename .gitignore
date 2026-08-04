@@ -11,6 +11,5 @@ models/*.pt
 
 *.log
 
-*.h5
 *.keras
 *.pt
