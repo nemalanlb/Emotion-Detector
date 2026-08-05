@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Real-Time Facial Emotion Detection Using OpenCV and Deep Learning
 
 Implements the system described in the project report: a CNN trained on
@@ -69,3 +70,14 @@ quit.
   with MobileNetV2/EfficientNet/ResNet to improve this).
 - Good, even lighting on your face improves detection accuracy, per
   the report's stated limitations.
+  
+---
+title: Emotion Detector
+emoji: 🎭
+colorFrom: blue
+colorTo: purple
+sdk: streamlit
+sdk_version: 1.60.0
+app_file: app.py
+pinned: false
+---
